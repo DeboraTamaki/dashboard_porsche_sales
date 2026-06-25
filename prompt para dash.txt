@@ -1,0 +1,28 @@
+# Anexe o arquivo porshe_database_sanitized.xlsx e cole o prompt abaixo para gerar a dashboard utilizando o recurso Canvas do ChatGPT
+
+# PROMPT:
+
+Utilizando o recurso de Canvas, renderize uma dashboard em uma versão bem sofisticada em um único arquivo HTML + CSS + JavaScript (estilo dashboard executivo premium) lendo automaticamente o arquivo Excel enviado
+
+# Filtros
+
+-> Modelo da Porshe (Sanitizado)
+
+-> Model year (Sanitizado)
+
+-> City (Sanitizado)
+
+-> Pay Method (Sanitizado)
+
+
+
+# Perguntas de negócios e KPI's
+
+-> Quais os principais modelos de carro vendido por cidade
+-> Qual o ano de modelo de carro que mais saiu em um período
+-> Quero insight de vendas de carros populares com base nos dados em cada cidade
+
+# sobre o UI/UX, se baseie no site oficial da Porshe Brasil:
+https://www.porshe.com/brazil/pt/
+
+tenha um ar de elegante e refinado
