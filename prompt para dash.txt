@@ -4,7 +4,7 @@
 
 Utilizando o recurso de Canvas, renderize uma dashboard em uma versão bem sofisticada em um único arquivo HTML + CSS + JavaScript (estilo dashboard executivo premium) lendo automaticamente o arquivo Excel enviado
 
-# Filtros
+# Filtros funcionais
 
 -> Modelo da Porshe (Sanitizado)
 
