@@ -1,6 +1,6 @@
 <img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/01a9e532-9a26-4f8d-ba8a-9711ccca328c" />
 
-# Criando uma Dashboard da Porsche com iA
+# Criando uma Dashboard da Porsche com IA
 
 Este projeto apresenta a criação de uma dashboard executiva inspirada na identidade visual da Porsche, desenvolvida com o apoio de agentes de IA para análise, estruturação e visualização de dados.
 
