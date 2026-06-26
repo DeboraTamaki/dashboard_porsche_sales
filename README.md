@@ -17,3 +17,4 @@ A dashboard foi construída em **HTML, CSS e JavaScript**, reunindo filtros inte
 
 Este projeto combina **Data Analytics, Front-end e Inteligência Artificial** para transformar uma base de dados em uma experiência visual interativa e estratégica.
 
+https://deboratamaki.github.io/dashboard_porsche_sales/
